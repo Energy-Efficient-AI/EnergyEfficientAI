@@ -27,7 +27,7 @@ affiliations:
  - name: WMG, University of Warwick, Coventry, UK
    index: 2
 date: 14 October 2024
-bibliography: energy_efficient_ai.bib
+bibliography: paper.bib
 ---
 
 # Summary
